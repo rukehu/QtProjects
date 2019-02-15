@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/ICOD">
+        <file>images/girl (1).jpg</file>
+        <file>images/girl (2).jpg</file>
+    </qresource>
+</RCC>

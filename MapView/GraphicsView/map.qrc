@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imm">
+        <file>map.png</file>
+        <file>local.png</file>
+    </qresource>
+</RCC>
